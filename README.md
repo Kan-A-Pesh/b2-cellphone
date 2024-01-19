@@ -2,6 +2,10 @@
 
 A school project for the VueJS course. The project is a simple phone app that allows you to add and delete contacts, call them and see the call history.
 
+## Demo 🚀️
+
+You can see a demo of the project on [cellphone.school.kan-a-pesh.fr](https://cellphone.school.kan-a-pesh.fr/)
+
 ## Project setup 📦️
 
 Install the dependencies with:
