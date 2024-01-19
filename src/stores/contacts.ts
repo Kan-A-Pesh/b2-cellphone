@@ -4,8 +4,8 @@ import { defineStore } from 'pinia'
 export const useContactsStore = defineStore('contacts', () => {
     const contacts = ref([
         { phone: '911', name: 'Emergency' },
-        { phone: '01 23 45 67 89', name: 'John Doe' },
-        { phone: '98 76 54 32 10', name: 'Jane Foo' }
+        { phone: '0123456789', name: 'John Doe' },
+        { phone: '9876543210', name: 'Jane Foo' }
     ])
 
     const addContact = (name: string, phone: string) => {
