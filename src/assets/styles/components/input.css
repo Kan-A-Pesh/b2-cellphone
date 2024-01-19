@@ -1,0 +1,10 @@
+.input-group {
+    display: flex;
+    flex-direction: column;
+    gap: calc(var(--unit) * 8px);
+}
+
+input {
+    padding: calc(var(--unit) * 16px) calc(var(--unit) * 24px);
+    border-radius: calc(var(--unit) * 16px);
+}
